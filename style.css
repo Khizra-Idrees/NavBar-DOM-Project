@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: #000000;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 21px;
+    padding-right: 35px;
+}
+
+a:hover{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
